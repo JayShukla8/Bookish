@@ -4,6 +4,8 @@
 
 An AI-powered book recommendation system leveraging **Semantic Search**, **Zero-Shot Text Classification** and **Sentiment Analysis.**
 
+check it out [here](https://youtu.be/dL-JtwobiNw)
+
 ## Features ✨
 
 - Get personalised book recommendations based on your query.
