@@ -14,6 +14,8 @@ An AI-powered book recommendation system leveraging **Semantic Search**, **Zero-
 ## Structure
 ```
 Bookish/
+├── .devcontainer/          # for GitHub spaces
+├── .streamlit/             # for custom theme
 ├── chroma_db/              # vector database 
 ├── datasets/               # Book datasets (csv)
 ├── image/                  # images for readme
