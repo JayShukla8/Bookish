@@ -24,13 +24,13 @@ Bookish/
 ├── stream_interface.py     # the main file
 ├── requirements.txt        # requirements
 ├── README.md               # Simple docs
-└── LICENSE                 # Created at runtime
+└── LICENSE                 # you can contribute
 ```
 ---
 
 ## Mechanics ⚙️
 
-### Semantic Search [^1] 
+### Semantic Search
 - Uses an Open Source [sentence-transformer](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2) model for creating the vector database from the book dataset.
 - Performs similarity search between your query and the books vector database.
 
