@@ -1,6 +1,6 @@
 # Ignore virtual environments
 .book_venv
-.idea
+.idea/
 
 # Python cache
 __pycache__/
